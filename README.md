@@ -10,6 +10,12 @@ Shelf ist eine Menüleisten-App für macOS nach Vorbild von Dropover: eine schwe
 
 Ab macOS 15, Swift 5, ohne Sandbox.
 
+## Download für macOS
+
+**[Shelf 1.3 herunterladen (.dmg)](https://github.com/leonardjaeger/Shelf/releases/download/v1.3/Shelf-1.3.dmg)** – DMG öffnen und Shelf in „Programme“ ziehen. Alle Versionen stehen unter [Releases](https://github.com/leonardjaeger/Shelf/releases).
+
+Shelf ist nicht bei Apple notarisiert. Beim ersten Start blockt macOS die App deshalb: Systemeinstellungen › Datenschutz & Sicherheit › „Dennoch öffnen“.
+
 ## Starten
 
 - **Xcode:** `Dropper.xcodeproj` öffnen, Ziel **Dropper › My Mac**, **⌘R** startet, **⌘U** testet.
