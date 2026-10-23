@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!-- Widgets müssen in einer Sandbox laufen. -->
+	<key>com.apple.security.app-sandbox</key>
+	<true/>
+	<!-- Nur lesen: ~/Library/Application Support/Dropper/ (dort schreibt die App Widget.json). -->
+	<key>com.apple.security.temporary-exception.files.home-relative-path.read-only</key>
+	<array>
+		<string>/Library/Application Support/Dropper/</string>
+	</array>
+</dict>
+</plist>

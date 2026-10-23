@@ -1,0 +1,96 @@
+{
+  "sourceLanguage": "de",
+  "strings": {
+    "Ausgeblendet · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hidden · %@"
+          }
+        }
+      }
+    },
+    "Dropper einmal starten, damit hier die Shelves erscheinen.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Launch Dropper once so your shelves show up here."
+          }
+        }
+      }
+    },
+    "Geschlossen %@ · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Closed %@ · %@"
+          }
+        }
+      }
+    },
+    "Geschlossen · %@": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Closed · %@"
+          }
+        }
+      }
+    },
+    "Neues Shelf": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "New Shelf"
+          }
+        }
+      }
+    },
+    "Noch keine Shelves – Dateien beim Ziehen schütteln öffnet eins.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No shelves yet – shake files while dragging to open one."
+          }
+        }
+      }
+    },
+    "Offene und zuletzt geschlossene Shelves – ein Klick holt sie nach vorn oder öffnet sie wieder.": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open and recently closed shelves – one click brings them to the front or reopens them."
+          }
+        }
+      }
+    },
+    "Shelves": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Shelves"
+          }
+        }
+      }
+    },
+    "Zuletzt benutzte Shelves": {
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Recent Shelves"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

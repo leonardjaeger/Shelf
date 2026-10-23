@@ -1,0 +1,3416 @@
+{
+  "sourceLanguage" : "de",
+  "strings" : {
+    " komprimiert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " compressed"
+          }
+        }
+      }
+    },
+    " ohne Metadaten" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : " without metadata"
+          }
+        }
+      }
+    },
+    "# Die Pfade stehen in \"$@\" ($1, $2 …).\n# Die erste Ausgabezeile erscheint als Meldung im Shelf.\necho \"$# Einträge\"" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# The paths are in \"$@\" ($1, $2 …).\n# The first line of output appears as a message in the shelf.\necho \"$# items\""
+          }
+        }
+      }
+    },
+    "%@ in der Zwischenablage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ on the clipboard"
+          }
+        }
+      }
+    },
+    "%@ ist schon für „%@“ vergeben." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is already used for “%@”."
+          }
+        }
+      }
+    },
+    "%@ ist schon von einer anderen App belegt – bitte ein anderes Kürzel wählen." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ is already used by another app – please choose a different shortcut."
+          }
+        }
+      }
+    },
+    "%lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld"
+          }
+        }
+      }
+    },
+    "%lld Bilder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld images"
+          }
+        }
+      }
+    },
+    "%lld Dateien" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld files"
+          }
+        }
+      }
+    },
+    "%lld Links" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld links"
+          }
+        }
+      }
+    },
+    "%lld Objekte" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld items"
+          }
+        }
+      }
+    },
+    "%lld Ordner" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld folders"
+          }
+        }
+      }
+    },
+    "%lld Pfade kopiert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld paths copied"
+          }
+        }
+      }
+    },
+    "%lld Texte" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld texts"
+          }
+        }
+      }
+    },
+    "%lld bewegt nach „%@“" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld moved to “%@”"
+          }
+        }
+      }
+    },
+    "%lld bewegt, %lld fehlgeschlagen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld moved, %lld failed"
+          }
+        }
+      }
+    },
+    "%lld kopiert nach „%@“" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld copied to “%@”"
+          }
+        }
+      }
+    },
+    "%lld kopiert, %lld fehlgeschlagen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld copied, %lld failed"
+          }
+        }
+      }
+    },
+    "1 Bild" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 image"
+          }
+        }
+      }
+    },
+    "1 Datei" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 file"
+          }
+        }
+      }
+    },
+    "1 Link" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 link"
+          }
+        }
+      }
+    },
+    "1 Text" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1 text"
+          }
+        }
+      }
+    },
+    "Abbrechen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel"
+          }
+        }
+      }
+    },
+    "Abdocken" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Undock"
+          }
+        }
+      }
+    },
+    "Ablegen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dropping"
+          }
+        }
+      }
+    },
+    "AirDrop" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AirDrop"
+          }
+        }
+      }
+    },
+    "Aktion hinzufügen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Action"
+          }
+        }
+      }
+    },
+    "Aktion suchen …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search actions …"
+          }
+        }
+      }
+    },
+    "Aktionen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Actions"
+          }
+        }
+      }
+    },
+    "Alle Arten" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Types"
+          }
+        }
+      }
+    },
+    "Alle Einträge teilen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share All Items"
+          }
+        }
+      }
+    },
+    "Alle Einträge teilen (AirDrop, Mail, Nachrichten …)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share all items (AirDrop, Mail, Messages …)"
+          }
+        }
+      }
+    },
+    "Alle Einträge zeigen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show All Items"
+          }
+        }
+      }
+    },
+    "Alle Shelves schließen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close All Shelves"
+          }
+        }
+      }
+    },
+    "Alle: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All: %@"
+          }
+        }
+      }
+    },
+    "Allgemein" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        }
+      }
+    },
+    "Als PDF zusammenfassen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Combine into PDF"
+          }
+        }
+      }
+    },
+    "Als Vorlage sichern" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save as Template"
+          }
+        }
+      }
+    },
+    "Als Vorlage sichern …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save as Template …"
+          }
+        }
+      }
+    },
+    "Als ZIP komprimieren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compress as ZIP"
+          }
+        }
+      }
+    },
+    "Am Rand andocken" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dock to Edge"
+          }
+        }
+      }
+    },
+    "Am Zeiger" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "At the Pointer"
+          }
+        }
+      }
+    },
+    "Am linken Rand" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On the Left Edge"
+          }
+        }
+      }
+    },
+    "Am rechten Rand" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "On the Right Edge"
+          }
+        }
+      }
+    },
+    "Angedocktes Shelf: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Docked shelf: %@"
+          }
+        }
+      }
+    },
+    "Angeheftet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pinned"
+          }
+        }
+      }
+    },
+    "Angeheftet (✕ blendet nur aus)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pinned (✕ only hides it)"
+          }
+        }
+      }
+    },
+    "Angeheftete Shelves" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pinned Shelves"
+          }
+        }
+      }
+    },
+    "Angeheftete Shelves kommen immer zurück. Aus: Die übrigen landen unter „Zuletzt geschlossen“." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pinned shelves always come back. Off: the others go to “Recently Closed”."
+          }
+        }
+      }
+    },
+    "Anheften" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pin"
+          }
+        }
+      }
+    },
+    "Animation" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Animation"
+          }
+        }
+      }
+    },
+    "Anzeigen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show"
+          }
+        }
+      }
+    },
+    "App hinzufügen …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add App …"
+          }
+        }
+      }
+    },
+    "Apps ausschließen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exclude Apps"
+          }
+        }
+      }
+    },
+    "Archiv" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Archive"
+          }
+        }
+      }
+    },
+    "Art" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Type"
+          }
+        }
+      }
+    },
+    "Auf 25 % verkleinern" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resize to 25 %"
+          }
+        }
+      }
+    },
+    "Auf 50 % verkleinern" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resize to 50 %"
+          }
+        }
+      }
+    },
+    "Aufgefächert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fanned"
+          }
+        }
+      }
+    },
+    "Aufgeklappt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Expanded View"
+          }
+        }
+      }
+    },
+    "Aufploppen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pop"
+          }
+        }
+      }
+    },
+    "Aus Shelf entfernen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove from Shelf"
+          }
+        }
+      }
+    },
+    "Aus dem Verlauf entfernen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove from History"
+          }
+        }
+      }
+    },
+    "Ausblenden" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide"
+          }
+        }
+      }
+    },
+    "Ausgeblendet" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hidden"
+          }
+        }
+      }
+    },
+    "Ausgeschlossene Apps" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Excluded Apps"
+          }
+        }
+      }
+    },
+    "Ausgewählt: %@ · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selected: %@ · %@"
+          }
+        }
+      }
+    },
+    "Ausgewählte Aktion löschen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Selected Action"
+          }
+        }
+      }
+    },
+    "Ausgewählte Vorlage löschen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delete Selected Template"
+          }
+        }
+      }
+    },
+    "Ausschließen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exclude"
+          }
+        }
+      }
+    },
+    "Aussehen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Look"
+          }
+        }
+      }
+    },
+    "Auswahl: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selection: %@"
+          }
+        }
+      }
+    },
+    "Bei Anmeldung starten" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Launch at Login"
+          }
+        }
+      }
+    },
+    "Beim Herausziehen immer kopieren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always copy when dragging out"
+          }
+        }
+      }
+    },
+    "Beim Schütteln sofort ein Shelf öffnen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open a shelf immediately when shaking"
+          }
+        }
+      }
+    },
+    "Beim Ziehen geöffnetes Shelf schließen, wenn nichts hineingelegt wurde" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close a shelf opened while dragging if nothing was dropped on it"
+          }
+        }
+      }
+    },
+    "Bewegen nach …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move to …"
+          }
+        }
+      }
+    },
+    "Bewegungen beim Ziehen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Movements While Dragging"
+          }
+        }
+      }
+    },
+    "Bild" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Image"
+          }
+        }
+      }
+    },
+    "Bilder" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Images"
+          }
+        }
+      }
+    },
+    "Bitte in den Systemeinstellungen › Allgemein › Anmeldeobjekte erlauben." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please allow it in System Settings › General › Login Items."
+          }
+        }
+      }
+    },
+    "Bitte mit ⌘, ⌥ oder ⌃ kombinieren, z. B. ⌥ ⇧ D." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please combine with ⌘, ⌥ or ⌃, e.g. ⌥ ⇧ D."
+          }
+        }
+      }
+    },
+    "Blau" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Blue"
+          }
+        }
+      }
+    },
+    "Das Ergebnis wäre zu groß" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The result would be too large"
+          }
+        }
+      }
+    },
+    "Datei anfassen, ziehen und dann kurz die Taste drücken – das Shelf erscheint am Zeiger. Eine Taste, die schon beim Anfassen gedrückt war, zählt erst nach erneutem Drücken. ⌥ und ⌘ bestimmen im Finder zusätzlich, ob kopiert oder verschoben wird." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grab a file, drag it and briefly press the key – the shelf appears at the pointer. A key that was already held when you grabbed the file only counts after pressing it again. In the Finder, ⌥ and ⌘ also decide whether to copy or move."
+          }
+        }
+      }
+    },
+    "Dateien" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Files"
+          }
+        }
+      }
+    },
+    "Dateien hier ablegen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drop Files Here"
+          }
+        }
+      }
+    },
+    "Dateizugriff" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File Access"
+          }
+        }
+      }
+    },
+    "Datum" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Date"
+          }
+        }
+      }
+    },
+    "Deckend" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solid"
+          }
+        }
+      }
+    },
+    "Der Kurzbefehl aus der App „Kurzbefehle“ bekommt die Einträge als Eingabe (wie „shortcuts run Name -i Datei …“)." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The shortcut from the Shortcuts app receives the items as input (like “shortcuts run Name -i File …”)."
+          }
+        }
+      }
+    },
+    "Der Name steht oben im Shelf und im Menü." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The name appears at the top of the shelf and in the menu."
+          }
+        }
+      }
+    },
+    "Design" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appearance"
+          }
+        }
+      }
+    },
+    "Diagnose" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diagnostics"
+          }
+        }
+      }
+    },
+    "Die Datei wird auch im Finder umbenannt." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The file is also renamed in the Finder."
+          }
+        }
+      }
+    },
+    "Die Originale bleiben, wo sie sind – auch im Finder auf demselben Laufwerk." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The originals stay where they are – even in the Finder on the same drive."
+          }
+        }
+      }
+    },
+    "Drags" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drags"
+          }
+        }
+      }
+    },
+    "Dunkel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dark"
+          }
+        }
+      }
+    },
+    "Ecke" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corner"
+          }
+        }
+      }
+    },
+    "Eigene Aktion" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Action"
+          }
+        }
+      }
+    },
+    "Eigene Aktionen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Actions"
+          }
+        }
+      }
+    },
+    "Eigene Aktionen erscheinen im Menü „…“ unter „Eigene Aktionen“ und in der Command Bar (⌘K). Sie bekommen die Pfade der ausgewählten Einträge (sonst aller). Die erste Ausgabezeile erscheint als Meldung im Shelf." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom actions appear in the “…” menu under “Custom Actions” and in the Command Bar (⌘K). They receive the paths of the selected items (otherwise all). The first line of output appears as a message in the shelf."
+          }
+        }
+      }
+    },
+    "Eigene Reihenfolge" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom Order"
+          }
+        }
+      }
+    },
+    "Eigenes" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Custom"
+          }
+        }
+      }
+    },
+    "Ein Bild" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Single Image"
+          }
+        }
+      }
+    },
+    "Ein Theme stellt Material, Transparenz, Einfärben, Rahmen, Größe und Stapel auf einmal ein – danach lässt sich alles einzeln ändern." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A theme sets material, transparency, tint, border, size and stack in one go – you can still change everything individually afterwards."
+          }
+        }
+      }
+    },
+    "Einblenden" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fade In"
+          }
+        }
+      }
+    },
+    "Eine Vorlage öffnet per Tastenkürzel oder Menüleiste › Vorlagen ein fertig eingerichtetes Shelf – mit Name, Farbe, Anheften und Platz. Ist es schon offen, holt das Kürzel es nach vorn. Ein bestehendes Shelf wird über „…“ › „Als Vorlage sichern …“ zur Vorlage." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A template opens a ready-made shelf via its keyboard shortcut or Menu Bar › Templates – with name, color, pinning and position. If it's already open, the shortcut brings it to the front. Turn an existing shelf into a template via “…” › “Save as Template …”."
+          }
+        }
+      }
+    },
+    "Einen Platz übernimmt „…“ › „Vorlage aktualisieren“ im geöffneten Shelf der Vorlage." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To save a position, use “…” › “Update Template” in the template's open shelf."
+          }
+        }
+      }
+    },
+    "Einstellungen …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings …"
+          }
+        }
+      }
+    },
+    "Einträge nach dem Herausziehen im Shelf behalten" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keep items in the shelf after dragging them out"
+          }
+        }
+      }
+    },
+    "Empfindlichkeit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sensitivity"
+          }
+        }
+      }
+    },
+    "Entferne Metadaten …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Removing metadata …"
+          }
+        }
+      }
+    },
+    "Entfernen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove"
+          }
+        }
+      }
+    },
+    "Erkenne Text …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recognizing text …"
+          }
+        }
+      }
+    },
+    "Erneut prüfen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check Again"
+          }
+        }
+      }
+    },
+    "Erscheinen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appearing"
+          }
+        }
+      }
+    },
+    "Erscheinungsbild" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Appearance"
+          }
+        }
+      }
+    },
+    "Erstelle PDF …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Creating PDF …"
+          }
+        }
+      }
+    },
+    "Erteilt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Granted"
+          }
+        }
+      }
+    },
+    "Farbe" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color"
+          }
+        }
+      }
+    },
+    "Farbig" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Colorful"
+          }
+        }
+      }
+    },
+    "Fertig: %@ im Shelf" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Done: %@ in the shelf"
+          }
+        }
+      }
+    },
+    "Festplattenvollzugriff" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Full Disk Access"
+          }
+        }
+      }
+    },
+    "Füge zusammen …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merging …"
+          }
+        }
+      }
+    },
+    "Für Auswahl: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For selection: %@"
+          }
+        }
+      }
+    },
+    "Für Gefundene: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For matches: %@"
+          }
+        }
+      }
+    },
+    "Für alle: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "For all: %@"
+          }
+        }
+      }
+    },
+    "Gefunden: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Found: %@"
+          }
+        }
+      }
+    },
+    "Gefunden: %lld von %lld · %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Found: %lld of %lld · %@"
+          }
+        }
+      }
+    },
+    "Gelb" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yellow"
+          }
+        }
+      }
+    },
+    "Geprüft um %@ – noch nicht erteilt. Ist Shelf in den Systemeinstellungen schon eingeschaltet, wirkt die Freigabe meist erst nach einem Neustart von Shelf." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Checked at %@ – not granted yet. If Shelf is already switched on in System Settings, the permission usually only takes effect after Shelf restarts."
+          }
+        }
+      }
+    },
+    "Gespeicherter Platz" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saved Position"
+          }
+        }
+      }
+    },
+    "Gestapelt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stacked"
+          }
+        }
+      }
+    },
+    "Glas" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glass"
+          }
+        }
+      }
+    },
+    "Grau" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gray"
+          }
+        }
+      }
+    },
+    "Groß" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Large"
+          }
+        }
+      }
+    },
+    "Größe" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Size"
+          }
+        }
+      }
+    },
+    "Grün" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Green"
+          }
+        }
+      }
+    },
+    "Hell" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Light"
+          }
+        }
+      }
+    },
+    "Herausziehen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dragging Out"
+          }
+        }
+      }
+    },
+    "Hierher bewegen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move Here"
+          }
+        }
+      }
+    },
+    "Hierher kopieren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Here"
+          }
+        }
+      }
+    },
+    "Hoch" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "High"
+          }
+        }
+      }
+    },
+    "Im Finder zeigen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show in Finder"
+          }
+        }
+      }
+    },
+    "Im Shelf suchen …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search in Shelf …"
+          }
+        }
+      }
+    },
+    "Immer am gleichen Platz" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Always in the Same Place"
+          }
+        }
+      }
+    },
+    "In HEIC umwandeln" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Convert to HEIC"
+          }
+        }
+      }
+    },
+    "In JPEG umwandeln" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Convert to JPEG"
+          }
+        }
+      }
+    },
+    "In PNG umwandeln" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Convert to PNG"
+          }
+        }
+      }
+    },
+    "In die Zwischenablage kopieren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy to Clipboard"
+          }
+        }
+      }
+    },
+    "In einer Ecke" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In a Corner"
+          }
+        }
+      }
+    },
+    "In macOS ist „Bewegung reduzieren“ an – Shelf animiert deshalb nicht." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“Reduce motion” is on in macOS – so Shelf doesn't animate."
+          }
+        }
+      }
+    },
+    "In neues Shelf" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "In New Shelf"
+          }
+        }
+      }
+    },
+    "In neues Shelf verschieben" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Move to New Shelf"
+          }
+        }
+      }
+    },
+    "Inhalt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Content"
+          }
+        }
+      }
+    },
+    "Jetzt neu starten" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restart Now"
+          }
+        }
+      }
+    },
+    "Jetzt öffnen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Now"
+          }
+        }
+      }
+    },
+    "Kacheln AirDrop, Mail und Nachrichten beim Drüberziehen zeigen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show AirDrop, Mail and Messages tiles when dragging over"
+          }
+        }
+      }
+    },
+    "Kein Kürzel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Shortcut"
+          }
+        }
+      }
+    },
+    "Kein Text gefunden" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No text found"
+          }
+        }
+      }
+    },
+    "Keine" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None"
+          }
+        }
+      }
+    },
+    "Keine Bilder ausgewählt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No images selected"
+          }
+        }
+      }
+    },
+    "Keine Bilder für das PDF" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No images for the PDF"
+          }
+        }
+      }
+    },
+    "Keine Treffer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Matches"
+          }
+        }
+      }
+    },
+    "Keine geschlossenen Shelves" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Closed Shelves"
+          }
+        }
+      }
+    },
+    "Keine passende Aktion" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No matching action"
+          }
+        }
+      }
+    },
+    "Keine – Shelf reagiert beim Ziehen in allen Apps." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None – Shelf responds to drags in all apps."
+          }
+        }
+      }
+    },
+    "Keine – im Shelf über „…“ › „Als Vorlage sichern …“" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None – in a shelf via “…” › “Save as Template …”"
+          }
+        }
+      }
+    },
+    "Keine – im Shelf über „…“ › „Anheften“" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None – in a shelf via “…” › “Pin”"
+          }
+        }
+      }
+    },
+    "Klicken und die neue Tastenkombination drücken (Esc bricht ab)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Click and press the new key combination (Esc cancels)"
+          }
+        }
+      }
+    },
+    "Kompakt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compact"
+          }
+        }
+      }
+    },
+    "Komprimiere …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compressing …"
+          }
+        }
+      }
+    },
+    "Komprimieren (JPEG 70 %)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Compress (JPEG 70 %)"
+          }
+        }
+      }
+    },
+    "Kontrast" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contrast"
+          }
+        }
+      }
+    },
+    "Kopieren nach …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy to …"
+          }
+        }
+      }
+    },
+    "Kräftig" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bold"
+          }
+        }
+      }
+    },
+    "Kurzbefehl" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcut"
+          }
+        }
+      }
+    },
+    "Kurzbefehle öffnen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open Shortcuts"
+          }
+        }
+      }
+    },
+    "Kürzel drücken …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Press shortcut …"
+          }
+        }
+      }
+    },
+    "Kürzel nur mit ⌘ bzw. ⇧ ⌘ sind in vielen Apps schon belegt – Shelf fängt sie dann überall ab." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcuts with only ⌘ or ⇧ ⌘ are already used in many apps – Shelf would then intercept them everywhere."
+          }
+        }
+      }
+    },
+    "Leer" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empty"
+          }
+        }
+      }
+    },
+    "Leeres Shelf nach dem Herausziehen schließen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close an empty shelf after dragging out"
+          }
+        }
+      }
+    },
+    "Leertaste" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Space"
+          }
+        }
+      }
+    },
+    "Legt Dateien in ein Shelf – zum Beispiel die Auswahl im Finder („Ausgewählte Objekte im Finder abfragen“)." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puts files into a shelf – for example the Finder selection (“Get Selected Finder Items”)."
+          }
+        }
+      }
+    },
+    "Lila" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purple"
+          }
+        }
+      }
+    },
+    "Link" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Link"
+          }
+        }
+      }
+    },
+    "Link kopieren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Link"
+          }
+        }
+      }
+    },
+    "Link kopiert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Link copied"
+          }
+        }
+      }
+    },
+    "Links" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Links"
+          }
+        }
+      }
+    },
+    "Links eine Aktion auswählen." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select an action on the left."
+          }
+        }
+      }
+    },
+    "Links eine Vorlage auswählen." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select a template on the left."
+          }
+        }
+      }
+    },
+    "Liste" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "List"
+          }
+        }
+      }
+    },
+    "Loslösen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detach"
+          }
+        }
+      }
+    },
+    "Läuft mit osascript. Pfade kommen als Liste in „on run argv“." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runs with osascript. Paths arrive as a list in “on run argv”."
+          }
+        }
+      }
+    },
+    "Läuft mit zsh. Pfade: \"$@\", einzeln $1, $2 …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runs with zsh. Paths: \"$@\", individually $1, $2 …"
+          }
+        }
+      }
+    },
+    "Material" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Material"
+          }
+        }
+      }
+    },
+    "Menüleiste" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Menu Bar"
+          }
+        }
+      }
+    },
+    "Metadaten entfernen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remove Metadata"
+          }
+        }
+      }
+    },
+    "Minimal" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimal"
+          }
+        }
+      }
+    },
+    "Mittel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Medium"
+          }
+        }
+      }
+    },
+    "Nach Art filtern" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Filter by type"
+          }
+        }
+      }
+    },
+    "Nach vorn holen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bring to Front"
+          }
+        }
+      }
+    },
+    "Nachrichten" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Messages"
+          }
+        }
+      }
+    },
+    "Name" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "Name der Vorlage – das Shelf heißt dann auch so." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name of the template – the shelf will be named the same."
+          }
+        }
+      }
+    },
+    "Name des Kurzbefehls" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shortcut name"
+          }
+        }
+      }
+    },
+    "Namen ändern …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rename …"
+          }
+        }
+      }
+    },
+    "Nebeneinander zusammenfügen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merge Side by Side"
+          }
+        }
+      }
+    },
+    "Neue Aktion" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Action"
+          }
+        }
+      }
+    },
+    "Neue Shelves erscheinen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New shelves appear"
+          }
+        }
+      }
+    },
+    "Neue Shelves öffnen dort, wohin du zuletzt eins geschoben hast." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New shelves open where you last moved one to."
+          }
+        }
+      }
+    },
+    "Neue Vorlage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Template"
+          }
+        }
+      }
+    },
+    "Neues Shelf" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Shelf"
+          }
+        }
+      }
+    },
+    "Neues Shelf aus Zwischenablage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Shelf from Clipboard"
+          }
+        }
+      }
+    },
+    "Neustart" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Relaunch"
+          }
+        }
+      }
+    },
+    "Nicht erteilt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not granted"
+          }
+        }
+      }
+    },
+    "Nicht gefunden" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not found"
+          }
+        }
+      }
+    },
+    "Nicht verfügbar für diese Einträge" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Not available for these items"
+          }
+        }
+      }
+    },
+    "Nichts zum Komprimieren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nothing to compress"
+          }
+        }
+      }
+    },
+    "Niedrig" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Low"
+          }
+        }
+      }
+    },
+    "Noch keine Vorlagen – mit „+“ anlegen oder im Shelf über „…“ › „Als Vorlage sichern …“." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No templates yet – add one with “+” or in a shelf via “…” › “Save as Template …”."
+          }
+        }
+      }
+    },
+    "Noch keine eigenen Aktionen – mit „+“ anlegen." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No custom actions yet – add one with “+”."
+          }
+        }
+      }
+    },
+    "Normal" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Normal"
+          }
+        }
+      }
+    },
+    "Oben links" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Left"
+          }
+        }
+      }
+    },
+    "Oben rechts" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Top Right"
+          }
+        }
+      }
+    },
+    "Offene Shelves nach einem Neustart wieder öffnen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reopen open shelves after a relaunch"
+          }
+        }
+      }
+    },
+    "Ohne" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "None"
+          }
+        }
+      }
+    },
+    "Ohne Namen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untitled"
+          }
+        }
+      }
+    },
+    "Ohne diese Freigabe fragt macOS für jeden Ordner einzeln (Schreibtisch, Dokumente, Downloads …). „Systemeinstellungen öffnen“, dort Shelf einschalten – fehlt es in der Liste, mit „+“ hinzufügen oder aus dem Finder hineinziehen." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Without this permission, macOS asks separately for each folder (Desktop, Documents, Downloads …). Click “Open System Settings” and turn on Shelf there – if it's missing from the list, add it with “+” or drag it in from the Finder."
+          }
+        }
+      }
+    },
+    "Orange" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Orange"
+          }
+        }
+      }
+    },
+    "Ordner" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Folder"
+          }
+        }
+      }
+    },
+    "PDF konnte nicht gespeichert werden" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The PDF could not be saved"
+          }
+        }
+      }
+    },
+    "Per Mail senden" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send via Mail"
+          }
+        }
+      }
+    },
+    "Per Nachrichten senden" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Send via Messages"
+          }
+        }
+      }
+    },
+    "Pfad kopieren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copy Path"
+          }
+        }
+      }
+    },
+    "Pfad kopiert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Path copied"
+          }
+        }
+      }
+    },
+    "Platz" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Position"
+          }
+        }
+      }
+    },
+    "Praktisch für Spiele oder Grafikprogramme, in denen man beim Ziehen viel hin und her bewegt." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Useful for games or graphics apps where you move back and forth a lot while dragging."
+          }
+        }
+      }
+    },
+    "Quick Look" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quick Look"
+          }
+        }
+      }
+    },
+    "Rahmen in der Shelf-Farbe" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Border in shelf color"
+          }
+        }
+      }
+    },
+    "Raster" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grid"
+          }
+        }
+      }
+    },
+    "Rot" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Red"
+          }
+        }
+      }
+    },
+    "Schließen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close"
+          }
+        }
+      }
+    },
+    "Schließen (Esc)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close (Esc)"
+          }
+        }
+      }
+    },
+    "Schütteln" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shake"
+          }
+        }
+      }
+    },
+    "Shelf aus Zwischenablage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelf from Clipboard"
+          }
+        }
+      }
+    },
+    "Shelf ausblenden" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hide Shelf"
+          }
+        }
+      }
+    },
+    "Shelf beenden" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quit Shelf"
+          }
+        }
+      }
+    },
+    "Shelf benennen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name Shelf"
+          }
+        }
+      }
+    },
+    "Shelf benennen …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Name Shelf …"
+          }
+        }
+      }
+    },
+    "Shelf im Finder zeigen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show Shelf in Finder"
+          }
+        }
+      }
+    },
+    "Shelf konnte damit nichts anfangen." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelf couldn't do anything with that."
+          }
+        }
+      }
+    },
+    "Shelf leeren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear Shelf"
+          }
+        }
+      }
+    },
+    "Shelf neu starten" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restart Shelf"
+          }
+        }
+      }
+    },
+    "Shelf schließen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close Shelf"
+          }
+        }
+      }
+    },
+    "Shelf schließen (mit ⌥: leeren)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Close shelf (with ⌥: clear)"
+          }
+        }
+      }
+    },
+    "Shelf – Dateien hierher ziehen öffnet ein neues Shelf" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelf – drag files here to open a new shelf"
+          }
+        }
+      }
+    },
+    "Shelf – Einstellungen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelf – Settings"
+          }
+        }
+      }
+    },
+    "Shelf-Aktivierung" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelf Activation"
+          }
+        }
+      }
+    },
+    "Shelf-Farbe färbt das ganze Shelf" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelf color tints the whole shelf"
+          }
+        }
+      }
+    },
+    "Shelf-Leiste" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelf Bar"
+          }
+        }
+      }
+    },
+    "Shelf-Verhalten" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelf Behavior"
+          }
+        }
+      }
+    },
+    "Shell-Skript" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shell Script"
+          }
+        }
+      }
+    },
+    "Shelves" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelves"
+          }
+        }
+      }
+    },
+    "Sichern" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "Sichtbar" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visible"
+          }
+        }
+      }
+    },
+    "Sortieren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sort"
+          }
+        }
+      }
+    },
+    "Speicher: %@ · Höchstwert %@ · läuft seit %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Memory: %@ · peak %@ · running for %@"
+          }
+        }
+      }
+    },
+    "Sprache" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Language"
+          }
+        }
+      }
+    },
+    "Standard" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Default"
+          }
+        }
+      }
+    },
+    "Stapel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stack"
+          }
+        }
+      }
+    },
+    "Stapel: %@. Doppelklick zeigt alle Einträge, Ziehen nimmt alle mit." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Stack: %@. Double-click shows all items, dragging takes them all."
+          }
+        }
+      }
+    },
+    "Suche und Filter zurücksetzen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset Search and Filter"
+          }
+        }
+      }
+    },
+    "Suche, Filter und Sortierung zurücksetzen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset search, filter and sorting"
+          }
+        }
+      }
+    },
+    "Suchen (⌘F)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Search (⌘F)"
+          }
+        }
+      }
+    },
+    "Symbol" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icon"
+          }
+        }
+      }
+    },
+    "System" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System"
+          }
+        }
+      }
+    },
+    "Systemeinstellungen öffnen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open System Settings"
+          }
+        }
+      }
+    },
+    "Taste" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Key"
+          }
+        }
+      }
+    },
+    "Taste %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Key %lld"
+          }
+        }
+      }
+    },
+    "Taste beim Ziehen drücken öffnet ein Shelf" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pressing a key while dragging opens a shelf"
+          }
+        }
+      }
+    },
+    "Taste statt Schütteln" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Key Instead of Shaking"
+          }
+        }
+      }
+    },
+    "Tastenkürzel" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keyboard Shortcuts"
+          }
+        }
+      }
+    },
+    "Teilen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share"
+          }
+        }
+      }
+    },
+    "Teilen …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Share …"
+          }
+        }
+      }
+    },
+    "Text erkennen und kopieren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recognize and Copy Text"
+          }
+        }
+      }
+    },
+    "Text kopiert (%lld Zeichen)" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Text copied (%lld characters)"
+          }
+        }
+      }
+    },
+    "Texte" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Texts"
+          }
+        }
+      }
+    },
+    "Theme" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Theme"
+          }
+        }
+      }
+    },
+    "Transparenz" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Transparency"
+          }
+        }
+      }
+    },
+    "Töne beim Ablegen und Herausziehen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sounds when dropping and dragging out"
+          }
+        }
+      }
+    },
+    "Umbenannt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renamed"
+          }
+        }
+      }
+    },
+    "Umbenennen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rename"
+          }
+        }
+      }
+    },
+    "Umbenennen nicht möglich: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couldn't rename: %@"
+          }
+        }
+      }
+    },
+    "Umbenennen …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rename …"
+          }
+        }
+      }
+    },
+    "Umwandeln" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Convert"
+          }
+        }
+      }
+    },
+    "Unten links" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bottom Left"
+          }
+        }
+      }
+    },
+    "Unten rechts" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bottom Right"
+          }
+        }
+      }
+    },
+    "Untereinander zusammenfügen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merge Top to Bottom"
+          }
+        }
+      }
+    },
+    "Verkleinere …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resizing …"
+          }
+        }
+      }
+    },
+    "Verlauf leeren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear History"
+          }
+        }
+      }
+    },
+    "Version" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Version"
+          }
+        }
+      }
+    },
+    "Vorlage hinzufügen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add Template"
+          }
+        }
+      }
+    },
+    "Vorlage „%@“ aktualisieren" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Update Template “%@”"
+          }
+        }
+      }
+    },
+    "Vorlage „%@“ aktualisiert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Template “%@” updated"
+          }
+        }
+      }
+    },
+    "Vorlage „%@“ gesichert – Kürzel unter Einstellungen › Vorlagen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Template “%@” saved – set a shortcut in Settings › Templates"
+          }
+        }
+      }
+    },
+    "Vorlagen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Templates"
+          }
+        }
+      }
+    },
+    "Vorlagen verwalten …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manage Templates …"
+          }
+        }
+      }
+    },
+    "Vorschau" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview"
+          }
+        }
+      }
+    },
+    "Vorschau des Shelfs" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shelf preview"
+          }
+        }
+      }
+    },
+    "Wandle um …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Converting …"
+          }
+        }
+      }
+    },
+    "Wie beim Loslassen mit ⇧: Das Shelf bleibt unverändert. Aus: Herausgezogenes verschwindet aus dem Shelf." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Like releasing with ⇧: the shelf stays unchanged. Off: items dragged out disappear from the shelf."
+          }
+        }
+      }
+    },
+    "Wie das System" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Same as System"
+          }
+        }
+      }
+    },
+    "Wie neue Shelves" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Like New Shelves"
+          }
+        }
+      }
+    },
+    "Wieder zulassen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allow Again"
+          }
+        }
+      }
+    },
+    "Wieder öffnen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reopen"
+          }
+        }
+      }
+    },
+    "Wird nach einem Neustart von Shelf wirksam." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Takes effect after relaunching Shelf."
+          }
+        }
+      }
+    },
+    "ZIP fehlgeschlagen: %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ZIP failed: %@"
+          }
+        }
+      }
+    },
+    "Zahl der offenen Shelves anzeigen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Show number of open shelves"
+          }
+        }
+      }
+    },
+    "Zeiger beim Ziehen schütteln öffnet ein Shelf" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Shaking the pointer while dragging opens a shelf"
+          }
+        }
+      }
+    },
+    "Zieh eine Datei im Finder und schüttle dabei den Zeiger. Hier siehst du, was Shelf erkennt." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Drag a file in the Finder and shake the pointer. Here you can see what Shelf detects."
+          }
+        }
+      }
+    },
+    "Zu Shelf hinzufügen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add to Shelf"
+          }
+        }
+      }
+    },
+    "Zuklappen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Collapse"
+          }
+        }
+      }
+    },
+    "Zuletzt geschlossen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recently Closed"
+          }
+        }
+      }
+    },
+    "Zurück auf %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Back to %@"
+          }
+        }
+      }
+    },
+    "Zurücksetzen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reset"
+          }
+        }
+      }
+    },
+    "Zusammengefügt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merged"
+          }
+        }
+      }
+    },
+    "ausgewählt" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "selected"
+          }
+        }
+      }
+    },
+    "on run argv\n\t-- argv enthält die Pfade der Einträge\n\treturn ((count of argv) as text) & \" Einträge\"\nend run" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "on run argv\n\t-- argv contains the paths of the items\n\treturn ((count of argv) as text) & \" items\"\nend run"
+          }
+        }
+      }
+    },
+    "Öffnen" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open"
+          }
+        }
+      }
+    },
+    "Öffnen mit" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Open With"
+          }
+        }
+      }
+    },
+    "Öffnet ein Shelf mit dem kopierten Inhalt (Dateien, Bild, Text oder Link)." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opens a shelf with the copied content (files, image, text or link)."
+          }
+        }
+      }
+    },
+    "Öffnet ein leeres Shelf in der Mitte des Bildschirms." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Opens an empty shelf in the middle of the screen."
+          }
+        }
+      }
+    },
+    "„%@“ fertig" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“%@” done"
+          }
+        }
+      }
+    },
+    "„%@“ ist kein lesbares Bild" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“%@” is not a readable image"
+          }
+        }
+      }
+    },
+    "„%@“ konnte nicht gespeichert werden" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“%@” could not be saved"
+          }
+        }
+      }
+    },
+    "„%@“ läuft …" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“%@” running …"
+          }
+        }
+      }
+    },
+    "„Hoch“ reagiert schon auf kleine Ausschläge, „Niedrig“ braucht kräftigeres Schütteln." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“High” reacts to small movements, “Low” needs stronger shaking."
+          }
+        }
+      }
+    },
+    "„Neues Shelf“ öffnet ein leeres Shelf am Mauszeiger, „Shelf aus Zwischenablage“ eines mit dem kopierten Inhalt (Dateien, Bild, Text oder Link) – in jeder App. Zum Ändern aufs Kürzel klicken und die neue Kombination drücken, Esc bricht ab." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "“New Shelf” opens an empty shelf at the pointer, “Shelf from Clipboard” one with the copied content (files, image, text or link) – in any app. To change it, click the shortcut and press the new combination; Esc cancels."
+          }
+        }
+      }
+    },
+    "⇧ ⌘ D ist in Mail „Senden“ und im Finder „Schreibtisch“ – beides geht dann nicht mehr per Tastatur." : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "⇧ ⌘ D is “Send” in Mail and “Desktop” in the Finder – neither would work from the keyboard anymore."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
