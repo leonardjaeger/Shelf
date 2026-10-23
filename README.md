@@ -295,3 +295,7 @@ App-Name (Shelf) und App-Symbol stehen. Signiert wird lokal mit „Dropper Signa
 | `DropperTests` | Tests für Schüttel-Erkennung, Einträge (Einordnung, Beschriftung, Dateinamen, Duplikate), Herausziehen, Tastenkürzel, Links, „Zuletzt geschlossen“, Auslösen beim Ziehen, Umsortieren, Andocken, Speichern, Umbenennen, Aktionssuche, eigene Aktionen, Bildbearbeitung, Suche/Vorlagen und Shelf-Leiste |
 
 Das Xcode-Projekt nutzt synchronisierte Ordner: neue Dateien werden automatisch übernommen. `Support/Dropper-Info.plist` ergänzt die erzeugte Info.plist um URL-Schema, „Öffnen mit“ und Dienste-Menü; `Support/DropperWidget-*` sind Info.plist und Berechtigungen des Widgets. Texte stehen auf Deutsch im Code; die englischen Übersetzungen liegen in `Dropper/Localizable.xcstrings` (das Diagnose-Protokoll bleibt deutsch).
+
+## Lizenz
+
+MIT-Lizenz, siehe [`LICENSE`](LICENSE).
